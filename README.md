@@ -3,12 +3,10 @@
 
 <br/>
 
+
 <!-- Hakkımda Bölümü -->
 ### 👨🏻‍💻 Benim Hakkımda
-- 🎓 Üniversitede Yazılım Mühendisliği okuyorum.
-- 💻 Şu anda **Java (Nesne Yönelimli Programlama, Swing)** ve **C++** üzerinde aktif projeler geliştiriyorum.
-- 🌐 Ayrıca **Spring Boot** ile backend ve **HTML/CSS/JS** ile frontend dünyasını keşfediyorum.
-
+Yazılım Mühendisliği öğrencisi. Java ve C++ ekosistemlerinde nesne yönelimli sistemler, karmaşık algoritmalar ve arayüz uygulamaları geliştiriyor; Spring Boot ile backend mimarilerini keşfediyorum. Teorik bilgisini sürekli pratik projelere dökerek büyüyen, temiz kod (clean code) prensiplerine ve yeni teknolojileri öğrenmeye tutkulu bir geliştirici adayı.
 <br/>
 
 <!-- Yetenekler ve Araçlar Rozetleri -->
