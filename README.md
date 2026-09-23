@@ -27,7 +27,6 @@ Yazılım Mühendisliği öğrencisi. Java ve C++ ekosistemlerinde nesne yöneli
 
 <br/><br/>
 
-<!-- Canlı İstatistikler Grafiği -->
 ### 📊 GitHub İstatistiklerim
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=topkara28&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=58A6FF&title_color=58A6FF" width="48%" />
